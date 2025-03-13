@@ -1,0 +1,13 @@
+body{
+    background-color: darksalmon;
+    font-size: medium;
+}
+
+.piza{
+    border-radius: 1.5%;
+}
+
+.prep{
+    background-color: rgba(225, 144, 186, 0.173);
+    border-radius: 2%;
+}
